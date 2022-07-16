@@ -1,5 +1,6 @@
 fun main(){
-
+    
+   //mock for testing
     val faturamentoMensal : HashMap<Int, Double> = HashMap()
         faturamentoMensal[1] = 22174.1664
         faturamentoMensal[2] = 24537.6698
